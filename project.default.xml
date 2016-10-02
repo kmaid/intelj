@@ -1,7 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -11,6 +10,9 @@
         <OptionsSetting value="true" id="Edit" />
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="/media/kmaid/New Volume1/Sync/Programming Projects/slrad.io" />
       </component>
     </defaultProject>
   </component>
