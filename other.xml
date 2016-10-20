@@ -53,6 +53,6 @@
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/bin/nodejs" version="4.2.6" last-modified="1463787647000" />
+    <node-interpreter path="/usr/bin/nodejs" version="6.7.0" last-modified="1475041139000" />
   </component>
 </application>
