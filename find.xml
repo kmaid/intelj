@@ -12,6 +12,7 @@
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>commons _base.scss</mask>
+      <mask>referalls.ts</mask>
     </recentFileMasks>
   </component>
 </application>
