@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="js2" type="ActionScript" />
+      <mapping pattern="Dockerfile-join" type="Dockerfile" />
+      <mapping pattern="Dockerfile-api" type="Dockerfile" />
+      <mapping pattern="Dockerfile-portal" type="Dockerfile" />
       <mapping pattern="Dockerfile-switching" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="20auto-upgrades" type="PLAIN_TEXT" />
