@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/NeverBland/BulbEnergy-SwitchingSite/" />
     </exec>
   </tool>
+  <tool name="Typings" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="typings install" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Bulb/join.bulb.co.uk" />
+    </exec>
+  </tool>
 </toolSet>
