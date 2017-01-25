@@ -16,6 +16,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="router" type="TypeScript" />
+      <mapping pattern="DisplaynameGenerator" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
