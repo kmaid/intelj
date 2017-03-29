@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="FILE_MASK" value="bower" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +16,7 @@
       <mask>commons _base.scss</mask>
       <mask>referalls.ts</mask>
       <mask>*.js</mask>
+      <mask>bower</mask>
     </recentFileMasks>
   </component>
 </application>
