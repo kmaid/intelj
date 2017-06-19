@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.graphql" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +19,15 @@
       <mask>*.js</mask>
       <mask>bower</mask>
       <mask>jade</mask>
-      <mask>.</mask>
       <mask>t</mask>
+      <mask>.</mask>
+      <mask>.g</mask>
+      <mask>.gra</mask>
+      <mask>.grap</mask>
+      <mask>.graph</mask>
+      <mask>.graphq</mask>
+      <mask>.graphql</mask>
+      <mask>*.graphql</mask>
     </recentFileMasks>
   </component>
 </application>
