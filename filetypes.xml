@@ -13,6 +13,7 @@
       <mapping pattern=".env.defaults" type="PLAIN_TEXT" />
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping pattern=".dotenv" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="terms" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="20auto-upgrades" type="PLAIN_TEXT" />
