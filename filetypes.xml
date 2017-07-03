@@ -30,6 +30,7 @@
       <mapping pattern="router" type="TypeScript" />
       <mapping pattern="DisplaynameGenerator" type="TypeScript" />
       <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping ext="ci" type="YAML" />
     </extensionMap>
   </component>
 </application>
