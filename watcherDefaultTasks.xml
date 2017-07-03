@@ -101,5 +101,24 @@
       <option name="workingDir" value="$USER_HOME$/Documents/bulb/goldenrod" />
       <envs />
     </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="**/*.ts --print-width 80 --single-quote --trailing-comma all --write" />
+      <option name="checkSyntaxErrors" value="false" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="ts" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="prettier" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/Documents/bulb/FireBrick/node_modules/prettier/bin/prettier.js" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$USER_HOME$/Documents/bulb/FireBrick" />
+      <envs />
+    </TaskOptions>
   </component>
 </application>
