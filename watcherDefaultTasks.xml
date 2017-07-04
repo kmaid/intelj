@@ -103,7 +103,7 @@
     </TaskOptions>
     <TaskOptions isEnabled="true">
       <option name="arguments" value="**/*.ts --print-width 80 --single-quote --trailing-comma all --write" />
-      <option name="checkSyntaxErrors" value="false" />
+      <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="ts" />
