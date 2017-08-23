@@ -1,5 +1,5 @@
 <application>
   <component name="YeomanSettings">
-    <option name="yoPackagePath" value="yo" />
+    <option name="yoPackagePath" value="/usr/local/lib/node_modules/yo/lib/cli.js" />
   </component>
 </application>
