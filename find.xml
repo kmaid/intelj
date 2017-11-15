@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -31,6 +30,12 @@
       <mask>.graphql</mask>
       <mask>*.graphql</mask>
       <mask>*.ts</mask>
+      <mask>.ts</mask>
+      <mask>t.ts</mask>
+      <mask>te.ts</mask>
+      <mask>test.ts</mask>
+      <mask>*test.ts</mask>
+      <mask>*.test.ts</mask>
     </recentFileMasks>
   </component>
 </application>
