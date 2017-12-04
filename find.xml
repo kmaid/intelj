@@ -6,10 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -29,6 +25,17 @@
       <mask>.graphq</mask>
       <mask>.graphql</mask>
       <mask>*.graphql</mask>
+      <mask>.ts</mask>
+      <mask>t.ts</mask>
+      <mask>te.ts</mask>
+      <mask>test.ts</mask>
+      <mask>*test.ts</mask>
+      <mask>*.test.ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
