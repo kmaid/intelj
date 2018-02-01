@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.stories.tsx" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>commons _base.scss</mask>
-      <mask>referalls.ts</mask>
-      <mask>*.js</mask>
-      <mask>bower</mask>
-      <mask>jade</mask>
-      <mask>t</mask>
-      <mask>.</mask>
-      <mask>.g</mask>
       <mask>.gra</mask>
       <mask>.grap</mask>
       <mask>.graph</mask>
@@ -29,11 +17,24 @@
       <mask>test.ts</mask>
       <mask>*test.ts</mask>
       <mask>*.test.ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.tsx</mask>
+      <mask>8</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.sto</mask>
+      <mask>*.stor</mask>
+      <mask>*.stori</mask>
+      <mask>*.storie</mask>
+      <mask>*.stories</mask>
+      <mask>*.stories.</mask>
+      <mask>*.stories.tx</mask>
+      <mask>*.stories.t</mask>
+      <mask>*.stories.ts</mask>
+      <mask>*.stories.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
