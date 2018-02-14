@@ -3,22 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*container.tsx" />
     <recentFileMasks>
-      <mask>.gra</mask>
-      <mask>.grap</mask>
-      <mask>.graph</mask>
-      <mask>.graphq</mask>
-      <mask>.graphql</mask>
-      <mask>*.graphql</mask>
-      <mask>.ts</mask>
-      <mask>t.ts</mask>
-      <mask>te.ts</mask>
-      <mask>test.ts</mask>
-      <mask>*test.ts</mask>
-      <mask>*.test.ts</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
-      <mask>*.tsx</mask>
       <mask>8</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -34,6 +22,19 @@
       <mask>*.stories.t</mask>
       <mask>*.stories.ts</mask>
       <mask>*.stories.tsx</mask>
+      <mask>*..tsx</mask>
+      <mask>*.tsx</mask>
+      <mask>con</mask>
+      <mask>cont</mask>
+      <mask>conta</mask>
+      <mask>contain</mask>
+      <mask>containe</mask>
+      <mask>container</mask>
+      <mask>container.</mask>
+      <mask>container.t</mask>
+      <mask>container.ts</mask>
+      <mask>container.tsx</mask>
+      <mask>*container.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
