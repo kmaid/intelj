@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="bonsai*" />
     <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>8</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.sto</mask>
-      <mask>*.stor</mask>
       <mask>*.stori</mask>
       <mask>*.storie</mask>
       <mask>*.stories</mask>
@@ -22,7 +14,6 @@
       <mask>*.stories.ts</mask>
       <mask>*.stories.tsx</mask>
       <mask>*..tsx</mask>
-      <mask>*.tsx</mask>
       <mask>con</mask>
       <mask>cont</mask>
       <mask>conta</mask>
@@ -34,6 +25,16 @@
       <mask>container.ts</mask>
       <mask>container.tsx</mask>
       <mask>*container.tsx</mask>
+      <mask>*.tsx</mask>
+      <mask>.tsx</mask>
+      <mask>b.tsx</mask>
+      <mask>bo.tsx</mask>
+      <mask>bon.tsx</mask>
+      <mask>bons.tsx</mask>
+      <mask>bonsa.tsx</mask>
+      <mask>bonsai.tsx</mask>
+      <mask>bonsai</mask>
+      <mask>bonsai*</mask>
     </recentFileMasks>
   </component>
 </application>
