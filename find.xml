@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="select-currency-modal-container*" />
     <recentFileMasks>
-      <mask>*.stori</mask>
-      <mask>*.storie</mask>
-      <mask>*.stories</mask>
       <mask>*.stories.</mask>
       <mask>*.stories.tx</mask>
       <mask>*.stories.t</mask>
@@ -34,6 +32,9 @@
       <mask>bonsai.tsx</mask>
       <mask>bonsai</mask>
       <mask>bonsai*</mask>
+      <mask>select-currency-modal-containe</mask>
+      <mask>select-currency-modal-container</mask>
+      <mask>select-currency-modal-container*</mask>
     </recentFileMasks>
   </component>
 </application>
