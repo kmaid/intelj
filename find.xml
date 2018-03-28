@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.stories.</mask>
-      <mask>*.stories.tx</mask>
-      <mask>*.stories.t</mask>
-      <mask>*.stories.ts</mask>
-      <mask>*.stories.tsx</mask>
-      <mask>*..tsx</mask>
       <mask>con</mask>
       <mask>cont</mask>
       <mask>conta</mask>
@@ -34,6 +29,12 @@
       <mask>select-currency-modal-containe</mask>
       <mask>select-currency-modal-container</mask>
       <mask>select-currency-modal-container*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
