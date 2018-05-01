@@ -3,37 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>con</mask>
-      <mask>cont</mask>
-      <mask>conta</mask>
-      <mask>contain</mask>
-      <mask>containe</mask>
-      <mask>container</mask>
-      <mask>container.</mask>
-      <mask>container.t</mask>
-      <mask>container.ts</mask>
-      <mask>container.tsx</mask>
-      <mask>*container.tsx</mask>
-      <mask>*.tsx</mask>
-      <mask>.tsx</mask>
-      <mask>b.tsx</mask>
-      <mask>bo.tsx</mask>
-      <mask>bon.tsx</mask>
-      <mask>bons.tsx</mask>
-      <mask>bonsa.tsx</mask>
-      <mask>bonsai.tsx</mask>
-      <mask>bonsai</mask>
-      <mask>bonsai*</mask>
-      <mask>select-currency-modal-containe</mask>
-      <mask>select-currency-modal-container</mask>
-      <mask>select-currency-modal-container*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.tests.ts" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.tests.ts</mask>
   </component>
 </application>
