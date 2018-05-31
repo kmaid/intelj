@@ -20,6 +20,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/tsc" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -39,6 +40,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/Documents/home.serversurge.co.uk/node_modules/babel-cli/bin/babel-node.js" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -58,6 +60,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/bin/make" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$USER_HOME$/Documents/bulb/squarespace" />
@@ -77,6 +80,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="cp" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="GraphQL Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
@@ -96,28 +100,30 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/bin/find" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="GraphQL Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$USER_HOME$/Documents/bulb/goldenrod" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="**/*.ts --print-width 80 --single-quote --trailing-comma all --write" />
+      <option name="arguments" value="--single-quote true --trailing-comma es5 --parser typescript --write $FilePathRelativeToProjectRoot$ " />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="ts" />
-      <option name="immediateSync" value="true" />
+      <option name="fileExtension" value="tsx" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="prettier" />
-      <option name="output" value="" />
+      <option name="output" value="$FilePathRelativeToProjectRoot$" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/Documents/bulb/FireBrick/node_modules/prettier/bin/prettier.js" />
+      <option name="program" value="$USER_HOME$/Documents/trainline-desktop/node_modules/.bin/prettier" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$USER_HOME$/Documents/bulb/FireBrick" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
@@ -134,6 +140,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/gulp" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -153,9 +160,50 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/gulp" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--single-quote true --trailing-comma es5 --parser typescript --write $FilePathRelativeToProjectRoot$ " />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="tsx" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="prettier tsx" />
+      <option name="output" value="$FilePathRelativeToProjectRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/Documents/trainline-desktop/node_modules/.bin/prettier" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--single-quote true --trailing-comma es5 --parser typescript --write $FilePathRelativeToProjectRoot$ " />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="ts" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="prettier ts" />
+      <option name="output" value="$FilePathRelativeToProjectRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/Documents/trainline-desktop/node_modules/.bin/prettier" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
   </component>
