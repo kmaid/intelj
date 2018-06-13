@@ -167,7 +167,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--single-quote true --trailing-comma es5 --parser typescript --write $FilePathRelativeToProjectRoot$ " />
+      <option name="arguments" value="--single-quote true --trailing-comma es5 --parser typescript --write $FilePathRelativeToProjectRoot$ || true" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -187,7 +187,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--single-quote true --trailing-comma es5 --parser typescript --write $FilePathRelativeToProjectRoot$ " />
+      <option name="arguments" value="--single-quote true --trailing-comma es5 --parser typescript --write $FilePathRelativeToProjectRoot$ || true" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
