@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="tsc" type="PLAIN_TEXT" />
       <mapping pattern="locationsHelper" type="TypeScript" />
     </extensionMap>
   </component>
