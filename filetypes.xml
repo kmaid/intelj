@@ -1,8 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
+      <mapping pattern="EuLeadPassenger.tsx" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="tsc" type="PLAIN_TEXT" />
+      <mapping pattern="locationsHelper" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
