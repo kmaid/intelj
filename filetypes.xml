@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
       <mapping pattern="EuLeadPassenger.tsx" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="tsc" type="PLAIN_TEXT" />
+      <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping pattern="locationsHelper" type="TypeScript" />
     </extensionMap>
   </component>
