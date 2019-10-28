@@ -7,6 +7,7 @@
       <mapping pattern="tsc" type="PLAIN_TEXT" />
       <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern="index" type="TypeScript" />
       <mapping pattern="locationsHelper" type="TypeScript" />
     </extensionMap>
