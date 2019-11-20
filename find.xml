@@ -18,5 +18,6 @@
     <mask>category-service</mask>
     <mask>*js</mask>
     <mask>*jsx</mask>
+    <mask>*css</mask>
   </component>
 </application>
